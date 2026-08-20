@@ -1,17 +1,28 @@
-# mypcot_dashboard
+# Mypcot Dashboard
 
-A new Flutter project.
+A Flutter dashboard application developed as part of a technical assignment.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Orders dashboard
+- Subscriptions dashboard
+- Customers dashboard
+- Swipeable dashboard cards
+- Date and timeline section
+- New order activity card
+- Bottom navigation
+- Floating action button
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Android
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+The application was developed to match the provided design reference.
+
+## APK
+
+The release APK was generated successfully using Flutter's release build.
